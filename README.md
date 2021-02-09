@@ -1,2 +1,2 @@
-# kubernetes-exercises
-Kubernetes exercises
+# Kubernetes exercises
+
